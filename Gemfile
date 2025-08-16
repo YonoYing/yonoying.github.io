@@ -9,5 +9,8 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
+gem 'nokogiri'
+gem 'html-pipeline'
+gem 'jekyll-mentions'
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'

@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
@@ -11,54 +12,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Masters in Machine Learning Research, University of Auckland, 2021 
+* BE Hons in Computer Systems Engineering, University of Auckland, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Full Stack Web Developer - YouDo
+  * July 2023 - July 2025
+  * Front end development using React and Vue,
+  * Backend using Ruby-on-Rails and Django 
+  * Data prediction using AzureML
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autopilot Engineer - Navico
+  * May 2021 - July 2023
+  * Embedded development using C++ 
+  * Frontend development using C++ and Qt 
+  * Tier 2-3 testing using custom-built robotics and real boats 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * PyTorch
+  * SciPy
+  * OpenCV
+  * Django Ninja
+* React
+* Ruby-on-Rails 
+* C++
+  * Qt
+  * Zephyr
+* LaTeX
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+   -->
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+   -->
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
