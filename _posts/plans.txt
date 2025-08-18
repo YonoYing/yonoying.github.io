@@ -1,0 +1,51 @@
+
+Pin Detector
+- Intro about getting into pinball and enjoying the scene 
+- Motivation is wanting to learn about fast object detection & tracking
+- Idea could be that people with more pinball knowledge than could use a tracking to tool to develop coaching programs 
+- Used Yolo with a set of manually labelled video frames 
+
+- Difficulties section
+  - Labelling was time consuming 
+  - Identifying ball in blurry frames was difficult
+  - yolo struggled to track fast moving sections (bumpers)
+
+- Further Plans 
+  - Deelop synthetic dataset using Visual pinball (not working) and Unity percetion kit 
+  - Train with a DeepSORT preprocessor to help track blurry frames 
+
+
+
+
+
+https://medium.com/better-programming/using-ai-to-automate-a-pinball-machine-ef5721141f03
+
+Azure AutoML 
+
+- Working on energy sector demand displays at work 
+- wondered about energy prediction, using publically available data 
+- developed a jupyter book to extract and preprocess data for automl 
+- fed data into auto ml to compare predicitons 
+- prophet got outperfomed by: ?? 
+- Show graphs 
+
+BMO 
+
+- Wanted to learn how 3d printing worked
+- Hooked up to a rasbery pi and touchscreen 
+- Developed an alg to scan the freq of the song and animate bmo's face in time 
+- Touchscreen drivers were very difficult to manage 
+
+Game Jams 
+
+- Did two 
+- enjoyed a lot 
+
+Masters 
+
+- Spiking NN explanation 
+- TA explanation 
+- Car Following experiment 
+- Bounds verification 
+    - Supercomputer constraints 
+

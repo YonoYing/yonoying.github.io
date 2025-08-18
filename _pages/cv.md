@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 * Masters in Machine Learning Research, University of Auckland, 2021 
 * BE Hons in Computer Systems Engineering, University of Auckland, 2020
 
-Work experience
+Work Experience
 ======
 * Full Stack Web Developer - YouDo
   * July 2023 - July 2025
@@ -29,7 +29,7 @@ Work experience
   * Frontend development using C++ and Qt 
   * Tier 2-3 testing using custom-built robotics and real boats 
   
-Skills
+Professional Skills
 ======
 * Python
   * PyTorch
@@ -42,6 +42,7 @@ Skills
   * Qt
   * Zephyr
 * LaTeX
+* Unity
 
 Publications
 ======
